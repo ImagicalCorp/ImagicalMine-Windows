@@ -36,6 +36,6 @@ Plugins Preinstalled
 - Gentleman - Block expletives chat in ImagicalMine
 - Dimensions - Nether on IM
 
-[Special Thanks] if(Team); People (https://github.com/if-Team)
+[Special Thanks] - [@if-Team](https://github.com/if-Team) People
 
-[추신] 한국어 버전이 필요하시면 MCPE KOREA를 참조해주세요 (っ´▽`)っ
+[한국어 사용자] - 한국어 버전이 필요하시면 [MK 플러그인 게시판](http://cafe.naver.com/ArticleSearchList.nhn?search.clubid=23683173&search.searchdate=all&search.searchBy=0&search.query=ImagicalMine&search.menuid=243#)을 참고해주세요.
